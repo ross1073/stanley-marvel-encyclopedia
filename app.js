@@ -54,7 +54,31 @@ function renderEra() {
       ${listSection("Key Characters", era.keyCharacters)}
       ${listSection("Landmark Issues", era.landmarkIssues)}
       ${listSection("Notable Creators", era.creators)}
+      ${milestonesSection(era.milestones)}
     </article>
+  `;
+}
+
+function milestonesSection(items) {
+  if (!items || items.length === 0) return "";
+  const rows = items
+    .slice()
+    .sort((a, b) => a.year - b.year)
+    .map((m) => `
+      <li class="milestone">
+        <span class="milestone-year">${escapeHtml(m.year)}</span>
+        <div class="milestone-body">
+          <strong>${escapeHtml(m.title)}</strong>
+          <p>${escapeHtml(m.description)}</p>
+        </div>
+      </li>
+    `)
+    .join("");
+  return `
+    <div class="era-section">
+      <h3>Timeline Milestones</h3>
+      <ol class="milestones">${rows}</ol>
+    </div>
   `;
 }
 

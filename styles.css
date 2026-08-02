@@ -123,6 +123,40 @@ body {
   margin-bottom: 0.2rem;
 }
 
+.milestones {
+  list-style: none;
+  padding: 0;
+  margin: 0.25rem 0 0;
+}
+
+.milestone {
+  display: flex;
+  gap: 0.9rem;
+  padding: 0.65rem 0;
+  border-bottom: 1px solid var(--paper-dim);
+}
+
+.milestone:last-child {
+  border-bottom: none;
+}
+
+.milestone-year {
+  flex: 0 0 3.2rem;
+  font-weight: 700;
+  color: var(--marvel-red);
+  font-variant-numeric: tabular-nums;
+}
+
+.milestone-body strong {
+  display: block;
+  margin-bottom: 0.15rem;
+}
+
+.milestone-body p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
 .loading, .error {
   text-align: center;
   padding: 2rem;

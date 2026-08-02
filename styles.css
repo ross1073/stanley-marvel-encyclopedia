@@ -1,0 +1,150 @@
+:root {
+  --marvel-red: #ed1d24;
+  --marvel-red-dark: #a10a10;
+  --ink: #14161a;
+  --paper: #f5f2ea;
+  --paper-dim: #e8e3d5;
+  --accent: #2a3f8f;
+  --shadow: rgba(0, 0, 0, 0.15);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  line-height: 1.5;
+}
+
+.site-header {
+  background: var(--marvel-red);
+  color: white;
+  padding: 2rem 1.5rem;
+  border-bottom: 6px solid var(--ink);
+  text-align: center;
+}
+
+.site-header h1 {
+  margin: 0;
+  font-size: 2.4rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.tagline {
+  margin: 0.5rem 0 0;
+  font-style: italic;
+  opacity: 0.95;
+}
+
+.era-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  background: var(--paper-dim);
+  border-bottom: 2px solid var(--ink);
+  justify-content: center;
+}
+
+.era-nav button {
+  background: white;
+  border: 2px solid var(--ink);
+  padding: 0.5rem 0.9rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: 600;
+  transition: all 0.15s ease;
+}
+
+.era-nav button:hover {
+  background: var(--marvel-red);
+  color: white;
+  border-color: var(--marvel-red-dark);
+}
+
+.era-nav button.active {
+  background: var(--ink);
+  color: white;
+}
+
+.era-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.era-card {
+  background: white;
+  border: 2px solid var(--ink);
+  border-radius: 6px;
+  padding: 1.5rem 1.75rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 12px var(--shadow);
+}
+
+.era-card h2 {
+  margin: 0 0 0.25rem;
+  color: var(--marvel-red);
+  font-size: 1.8rem;
+}
+
+.era-years {
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+.era-description {
+  margin-bottom: 1.25rem;
+}
+
+.era-section h3 {
+  margin: 1rem 0 0.4rem;
+  font-size: 1.05rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--ink);
+  border-bottom: 1px solid var(--paper-dim);
+  padding-bottom: 0.2rem;
+}
+
+.era-section ul {
+  margin: 0.25rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.era-section li {
+  margin-bottom: 0.2rem;
+}
+
+.loading, .error {
+  text-align: center;
+  padding: 2rem;
+  color: var(--ink);
+  opacity: 0.7;
+}
+
+.error {
+  color: var(--marvel-red-dark);
+}
+
+.site-footer {
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.85rem;
+  color: var(--ink);
+  opacity: 0.7;
+  border-top: 2px solid var(--paper-dim);
+}
+
+@media (max-width: 600px) {
+  .site-header h1 { font-size: 1.7rem; }
+  .era-card { padding: 1.25rem; }
+  .era-card h2 { font-size: 1.4rem; }
+}

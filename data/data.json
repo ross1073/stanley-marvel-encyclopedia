@@ -1,0 +1,94 @@
+{
+  "eras": [
+    {
+      "id": "golden-age",
+      "name": "Golden Age",
+      "years": "1939–1949",
+      "description": "The dawn of Timely Comics. Marvel's ancestor publisher launched with Marvel Comics #1, introducing the original Human Torch and Namor the Sub-Mariner. Wartime patriotism drove the debut of Captain America.",
+      "keyCharacters": ["Captain America", "Human Torch (Jim Hammond)", "Namor the Sub-Mariner", "Bucky Barnes"],
+      "landmarkIssues": ["Marvel Comics #1 (1939)", "Captain America Comics #1 (1941)"],
+      "creators": ["Joe Simon", "Jack Kirby", "Carl Burgos", "Bill Everett"]
+    },
+    {
+      "id": "atlas-era",
+      "name": "Atlas Era",
+      "years": "1950–1961",
+      "description": "Timely rebranded as Atlas Comics under Martin Goodman. Superhero sales collapsed post-war; the publisher pivoted to monster, horror, western, war, and romance anthologies that trained the artists who would define the next era.",
+      "keyCharacters": ["Groot (original)", "Fin Fang Foom", "Kid Colt", "Millie the Model"],
+      "landmarkIssues": ["Journey into Mystery #1 (1952)", "Tales to Astonish #1 (1959)"],
+      "creators": ["Stan Lee", "Jack Kirby", "Steve Ditko", "Don Heck"]
+    },
+    {
+      "id": "silver-age",
+      "name": "Silver Age",
+      "years": "1961–1970",
+      "description": "The Marvel Universe as we know it was born. Fantastic Four #1 kicked off a rapid-fire debut run — Spider-Man, X-Men, Hulk, Iron Man, Thor, Daredevil, Doctor Strange, Black Panther — anchored by flawed, human characters and a shared continuity.",
+      "keyCharacters": ["Spider-Man", "Fantastic Four", "X-Men", "Hulk", "Iron Man", "Thor", "Black Panther"],
+      "landmarkIssues": ["Fantastic Four #1 (1961)", "Amazing Fantasy #15 (1962)", "X-Men #1 (1963)"],
+      "creators": ["Stan Lee", "Jack Kirby", "Steve Ditko"]
+    },
+    {
+      "id": "bronze-age",
+      "name": "Bronze Age",
+      "years": "1970–1985",
+      "description": "Marvel matured. Stories tackled drug abuse, racism, and social upheaval. The Comics Code weakened, Wolverine debuted, the Phoenix Saga redefined tragedy, and street-level heroes like Punisher entered the roster.",
+      "keyCharacters": ["Wolverine", "Punisher", "Ghost Rider", "Luke Cage", "Storm"],
+      "landmarkIssues": ["Amazing Spider-Man #96–98 (1971)", "Giant-Size X-Men #1 (1975)", "X-Men #137 (1980)"],
+      "creators": ["Chris Claremont", "John Byrne", "Frank Miller", "Roy Thomas"]
+    },
+    {
+      "id": "modern-age",
+      "name": "Modern Age",
+      "years": "1985–1995",
+      "description": "Line-wide crossovers became the engine — Secret Wars, Mutant Massacre, Inferno, Infinity Gauntlet. Todd McFarlane, Jim Lee, and Rob Liefeld drove the art boom that ended with the founders leaving to start Image Comics in 1992.",
+      "keyCharacters": ["Deadpool", "Cable", "Venom", "Gambit"],
+      "landmarkIssues": ["Secret Wars #1 (1984)", "Infinity Gauntlet #1 (1991)", "X-Men #1 (1991)"],
+      "creators": ["Jim Shooter", "Todd McFarlane", "Jim Lee", "Rob Liefeld"]
+    },
+    {
+      "id": "dark-age",
+      "name": "Dark Age",
+      "years": "1995–2000",
+      "description": "The speculator bubble burst. Marvel filed for Chapter 11 bankruptcy in 1996. Heroes Reborn outsourced flagship titles to former Marvel artists; the Onslaught event reset the board. The company clawed back to solvency by decade's end.",
+      "keyCharacters": ["Onslaught", "Age of Apocalypse cast", "Heroes Reborn variants"],
+      "landmarkIssues": ["Onslaught: X-Men #1 (1996)", "Heroes Reborn: The Return (1997)"],
+      "creators": ["Mark Waid", "Kurt Busiek", "Alex Ross"]
+    },
+    {
+      "id": "marvel-knights-ultimate",
+      "name": "Marvel Knights & Ultimate Era",
+      "years": "2000–2005",
+      "description": "Joe Quesada's Marvel Knights imprint restored critical credibility with darker takes on Daredevil, Punisher, and Inhumans. The Ultimate line rebooted continuity for new readers — Ultimate Spider-Man became a runaway hit and blueprinted the eventual MCU.",
+      "keyCharacters": ["Ultimate Spider-Man", "Ultimate Nick Fury", "Marvel Knights Daredevil", "Alias's Jessica Jones"],
+      "landmarkIssues": ["Ultimate Spider-Man #1 (2000)", "Alias #1 (2001)", "Daredevil vol. 2 #1 (1998)"],
+      "creators": ["Joe Quesada", "Brian Michael Bendis", "Mark Millar", "Bill Jemas"]
+    },
+    {
+      "id": "event-era",
+      "name": "Event Era",
+      "years": "2005–2012",
+      "description": "Bendis, Millar, and Hickman built Marvel around annual line-wide events. Avengers Disassembled led into House of M, Civil War, Secret Invasion, Dark Reign, Siege, and Fear Itself. Each event permanently altered status quo.",
+      "keyCharacters": ["Iron Man (post-Civil War)", "Norman Osborn (Dark Reign)", "Sentry", "New Avengers roster"],
+      "landmarkIssues": ["House of M #1 (2005)", "Civil War #1 (2006)", "Secret Invasion #1 (2008)"],
+      "creators": ["Brian Michael Bendis", "Mark Millar", "Ed Brubaker", "Matt Fraction"]
+    },
+    {
+      "id": "mcu-synergy",
+      "name": "MCU Synergy Era",
+      "years": "2012–2019",
+      "description": "The Marvel Cinematic Universe reshaped the comics. Marvel NOW! and All-New All-Different relaunches aligned characters and looks with their film versions. Hickman's Avengers/New Avengers built to Secret Wars (2015), rebooting continuity as the All-New All-Different Marvel.",
+      "keyCharacters": ["Miles Morales", "Kamala Khan (Ms. Marvel)", "Sam Wilson Captain America", "Jane Foster Thor"],
+      "landmarkIssues": ["Marvel NOW! Point One (2012)", "Secret Wars #1 (2015)", "Ms. Marvel #1 (2014)"],
+      "creators": ["Jonathan Hickman", "G. Willow Wilson", "Ta-Nehisi Coates", "Donny Cates"]
+    },
+    {
+      "id": "krakoan-beyond",
+      "name": "Krakoan Age & Beyond",
+      "years": "2019–present",
+      "description": "Jonathan Hickman's House of X / Powers of X relaunched the X-Men on the mutant nation-state of Krakoa, reframing the franchise around resurrection, diplomacy, and existential threat. The line closed with Fall of X and transitioned into From the Ashes in 2024.",
+      "keyCharacters": ["Krakoan Council", "Moira MacTaguggart (X)", "Orchis", "Sabretooth (Exiled)"],
+      "landmarkIssues": ["House of X #1 (2019)", "Powers of X #1 (2019)", "Fall of the House of X #1 (2024)"],
+      "creators": ["Jonathan Hickman", "Kieron Gillen", "Al Ewing", "Gerry Duggan"]
+    }
+  ]
+}

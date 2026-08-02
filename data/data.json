@@ -4,211 +4,91 @@
       "id": "golden-age",
       "name": "Golden Age",
       "years": "1939–1949",
-      "description": "The dawn of Timely Comics. Marvel's ancestor publisher launched with Marvel Comics #1, introducing the original Human Torch and Namor the Sub-Mariner. Wartime patriotism drove the debut of Captain America.",
-      "keyCharacters": ["Captain America", "Human Torch (Jim Hammond)", "Namor the Sub-Mariner", "Bucky Barnes"],
+      "description": "The dawn of Timely Comics. Marvel ancestor publisher launched with Marvel Comics #1, introducing the original Human Torch and Namor the Sub-Mariner. Wartime patriotism drove the debut of Captain America.",
+      "keyCharacters": ["Captain America", "Human Torch", "Namor", "Bucky Barnes"],
       "landmarkIssues": ["Marvel Comics #1 (1939)", "Captain America Comics #1 (1941)"],
-      "creators": ["Joe Simon", "Jack Kirby", "Carl Burgos", "Bill Everett"],
-      "milestones": [
-        {"year": 1939, "title": "Timely Comics founded", "description": "Martin Goodman launches Timely Publications, the company that will eventually become Marvel Comics."},
-        {"year": 1939, "title": "Marvel Comics #1 published", "description": "First issue debuts the original android Human Torch (Carl Burgos) and Namor the Sub-Mariner (Bill Everett). Cover-dated October 1939."},
-        {"year": 1940, "title": "Namor gets his own title", "description": "Sub-Mariner Comics #1 launches, making Namor one of the earliest superhero solo stars and comics' first antihero."},
-        {"year": 1940, "title": "Human Torch #1 launches", "description": "The android hero gets his own quarterly, running through 1954. Torch vs. Sub-Mariner becomes Timely's signature rivalry."},
-        {"year": 1941, "title": "Captain America Comics #1", "description": "Joe Simon and Jack Kirby debut Captain America punching Adolf Hitler on the cover, months before U.S. entry into WWII. Sells nearly a million copies."},
-        {"year": 1941, "title": "Stan Lee joins Timely", "description": "Stanley Martin Lieber hired as an office assistant at age 17; publishes his first text filler in Captain America Comics #3."},
-        {"year": 1942, "title": "Miss America debuts", "description": "Marvel Mystery Comics #49 introduces Madeline Joyce, one of Timely's few Golden Age heroines to headline her own title (Miss America Magazine, 1944)."},
-        {"year": 1942, "title": "The All-Winners Squad forms", "description": "Timely's first superhero team-up, uniting Captain America, Human Torch, Sub-Mariner, Whizzer, and Miss America, debuts in All Winners Comics #1."},
-        {"year": 1946, "title": "Post-war superhero decline begins", "description": "With WWII over, patriotic-hero sales soften. Timely starts pivoting the mix toward funny animals, romance, and western titles."},
-        {"year": 1949, "title": "Superhero line collapses", "description": "Captain America Comics ends its original run; Human Torch and Sub-Mariner titles wind down. Timely goes full-genre for the next decade."}
-      ]
+      "creators": ["Joe Simon", "Jack Kirby"]
     },
     {
       "id": "atlas-era",
       "name": "Atlas Era",
       "years": "1950–1961",
-      "description": "Timely rebranded as Atlas Comics under Martin Goodman. Superhero sales collapsed post-war; the publisher pivoted to monster, horror, western, war, and romance anthologies that trained the artists who would define the next era.",
-      "keyCharacters": ["Groot (original)", "Fin Fang Foom", "Kid Colt", "Millie the Model"],
+      "description": "Timely rebranded as Atlas Comics. Superhero sales collapsed; pivoted to monster, horror, western, war, and romance.",
+      "keyCharacters": ["Groot", "Fin Fang Foom", "Kid Colt"],
       "landmarkIssues": ["Journey into Mystery #1 (1952)", "Tales to Astonish #1 (1959)"],
-      "creators": ["Stan Lee", "Jack Kirby", "Steve Ditko", "Don Heck"],
-      "milestones": [
-        {"year": 1950, "title": "Captain America revival fails", "description": "Timely briefly relaunches Captain America as a Communist-hunter (Young Men #24, then Captain America #76). Cancelled within a year."},
-        {"year": 1951, "title": "Atlas Comics branding adopted", "description": "Goodman rebrands Timely as Atlas Comics, standardizing the globe logo across a sprawling anthology line."},
-        {"year": 1952, "title": "Journey into Mystery debuts", "description": "Anthology launches as a horror/suspense title. It will later host the debut of Thor."},
-        {"year": 1953, "title": "Sub-Mariner returns", "description": "Sub-Mariner Comics briefly relaunches as part of a short-lived superhero revival attempt alongside a new Human Torch."},
-        {"year": 1954, "title": "Comics Code Authority created", "description": "In response to Wertham's Seduction of the Innocent, publishers self-impose the CCA. Atlas's horror and crime titles are gutted overnight."},
-        {"year": 1957, "title": "Atlas Implosion", "description": "Goodman's distribution deal with American News collapses. Atlas fires most of its staff and shrinks output from ~85 titles/month to a handful."},
-        {"year": 1959, "title": "Tales to Astonish launches", "description": "Monster anthology debuts; will later become the home of Ant-Man and Hulk."},
-        {"year": 1959, "title": "Strange Tales monster era peaks", "description": "Kirby and Ditko crank out giant-monster stories — Grottu, Groot, Fin Fang Foom — that build the visual grammar of the coming Marvel Age."},
-        {"year": 1960, "title": "Groot debuts", "description": "The original Groot appears in Tales to Astonish #13 as a Kirby-drawn alien invader — decades before his Guardians of the Galaxy revival."},
-        {"year": 1961, "title": "Atlas era ends", "description": "The last purely-Atlas monster and romance issues ship in mid-1961, immediately before Fantastic Four #1 kicks off the Marvel Age in November."}
-      ]
+      "creators": ["Stan Lee", "Jack Kirby"]
     },
     {
       "id": "silver-age",
       "name": "Silver Age",
       "years": "1961–1970",
-      "description": "The Marvel Universe as we know it was born. Fantastic Four #1 kicked off a rapid-fire debut run — Spider-Man, X-Men, Hulk, Iron Man, Thor, Daredevil, Doctor Strange, Black Panther — anchored by flawed, human characters and a shared continuity.",
-      "keyCharacters": ["Spider-Man", "Fantastic Four", "X-Men", "Hulk", "Iron Man", "Thor", "Black Panther"],
+      "description": "The Marvel Universe was born. Fantastic Four #1 launched a shared continuity of flawed, human heroes.",
+      "keyCharacters": ["Spider-Man", "Fantastic Four", "X-Men", "Hulk", "Iron Man", "Thor"],
       "landmarkIssues": ["Fantastic Four #1 (1961)", "Amazing Fantasy #15 (1962)", "X-Men #1 (1963)"],
-      "creators": ["Stan Lee", "Jack Kirby", "Steve Ditko"],
-      "milestones": [
-        {"year": 1961, "title": "Fantastic Four #1", "description": "Stan Lee and Jack Kirby launch the Marvel Age. Reed, Sue, Johnny, and Ben get powers from cosmic rays; unlike DC heroes, they fight, worry about rent, and don't wear masks."},
-        {"year": 1962, "title": "Hulk debuts", "description": "Incredible Hulk #1 introduces Bruce Banner, a scientist transformed by a gamma-bomb blast into a raging monster — Marvel's Jekyll and Hyde."},
-        {"year": 1962, "title": "Spider-Man debuts", "description": "Amazing Fantasy #15 introduces Peter Parker in a 'try-out' issue that becomes a smash. Lee and Ditko invent the flawed teen hero."},
-        {"year": 1962, "title": "Thor debuts", "description": "Journey into Mystery #83 introduces Dr. Don Blake and his hammer Mjolnir. Kirby's Norse-mythology aesthetic reshapes Marvel's cosmic side."},
-        {"year": 1963, "title": "Iron Man debuts", "description": "Tales of Suspense #39 introduces Tony Stark, wounded weapons manufacturer who builds armor to escape captivity — Lee's deliberate attempt to make readers root for a millionaire arms dealer."},
-        {"year": 1963, "title": "Avengers assemble", "description": "Avengers #1 unites Thor, Iron Man, Hulk, Ant-Man, and Wasp. Captain America returns in issue #4 (1964), thawed from Arctic ice."},
-        {"year": 1963, "title": "X-Men debut", "description": "X-Men #1 introduces Professor Xavier's teenage students Cyclops, Marvel Girl, Beast, Iceman, and Angel — plus Magneto."},
-        {"year": 1964, "title": "Daredevil debuts", "description": "Daredevil #1 introduces blind lawyer Matt Murdock, laying groundwork for Marvel's street-level tier."},
-        {"year": 1966, "title": "Black Panther debuts", "description": "Fantastic Four #52 introduces T'Challa, king of Wakanda — the first Black superhero in mainstream American comics."},
-        {"year": 1966, "title": "Galactus and Silver Surfer arrive", "description": "The Galactus Trilogy (FF #48–50) introduces the world-eater and his herald, expanding Marvel's cosmic scale."}
-      ]
+      "creators": ["Stan Lee", "Jack Kirby", "Steve Ditko"]
     },
     {
       "id": "bronze-age",
       "name": "Bronze Age",
       "years": "1970–1985",
-      "description": "Marvel matured. Stories tackled drug abuse, racism, and social upheaval. The Comics Code weakened, Wolverine debuted, the Phoenix Saga redefined tragedy, and street-level heroes like Punisher entered the roster.",
+      "description": "Marvel matured, tackling social issues and introducing street-level, complex characters.",
       "keyCharacters": ["Wolverine", "Punisher", "Ghost Rider", "Luke Cage", "Storm"],
       "landmarkIssues": ["Amazing Spider-Man #96–98 (1971)", "Giant-Size X-Men #1 (1975)", "X-Men #137 (1980)"],
-      "creators": ["Chris Claremont", "John Byrne", "Frank Miller", "Roy Thomas"],
-      "milestones": [
-        {"year": 1971, "title": "Spider-Man drug issues break the Code", "description": "Amazing Spider-Man #96–98 publish an anti-drug story WITHOUT Comics Code approval at the U.S. government's request. The CCA revises its rules the same year."},
-        {"year": 1971, "title": "Conan the Barbarian launches", "description": "Roy Thomas adapts Robert E. Howard's character; the title makes sword-and-sorcery a Marvel staple."},
-        {"year": 1972, "title": "Luke Cage: Hero for Hire #1", "description": "Marvel's first Black character to headline his own title, riding the blaxploitation wave."},
-        {"year": 1972, "title": "Ghost Rider debuts", "description": "Marvel Spotlight #5 introduces Johnny Blaze, a stunt rider bonded to the demon Zarathos."},
-        {"year": 1973, "title": "Death of Gwen Stacy", "description": "Amazing Spider-Man #121 kills Gwen when the Green Goblin throws her off a bridge. Considered the end of the Silver Age of comics."},
-        {"year": 1974, "title": "Punisher and Wolverine debut", "description": "Amazing Spider-Man #129 introduces Frank Castle; Incredible Hulk #180–181 introduce Wolverine — two of Marvel's most bankable characters, both born the same year."},
-        {"year": 1975, "title": "Giant-Size X-Men #1", "description": "Len Wein and Dave Cockrum relaunch the team with Storm, Nightcrawler, Colossus, and Wolverine. Chris Claremont takes over the writing with issue #94."},
-        {"year": 1977, "title": "Star Wars #1", "description": "Marvel's Star Wars adaptation reportedly saves the company from bankruptcy during a rough period for the industry."},
-        {"year": 1980, "title": "Dark Phoenix Saga concludes", "description": "X-Men #137 kills Jean Grey after the Phoenix Force consumes a star system. Claremont/Byrne redefine what mainstream superhero tragedy can look like."},
-        {"year": 1981, "title": "Days of Future Past", "description": "X-Men #141–142 depict a dystopian future ruled by Sentinels. Template for countless time-travel stories in comics and film."}
-      ]
+      "creators": ["Chris Claremont", "John Byrne"]
     },
     {
       "id": "modern-age",
       "name": "Modern Age",
       "years": "1985–1995",
-      "description": "Line-wide crossovers became the engine — Secret Wars, Mutant Massacre, Inferno, Infinity Gauntlet. Todd McFarlane, Jim Lee, and Rob Liefeld drove the art boom that ended with the founders leaving to start Image Comics in 1992.",
+      "description": "Line-wide crossovers and the 90s art boom defined the era.",
       "keyCharacters": ["Deadpool", "Cable", "Venom", "Gambit"],
       "landmarkIssues": ["Secret Wars #1 (1984)", "Infinity Gauntlet #1 (1991)", "X-Men #1 (1991)"],
-      "creators": ["Jim Shooter", "Todd McFarlane", "Jim Lee", "Rob Liefeld"],
-      "milestones": [
-        {"year": 1984, "title": "Secret Wars launches", "description": "Marvel Super Heroes Secret Wars #1 kicks off the first line-wide crossover event, driven by a Mattel toy tie-in. Spider-Man returns wearing the black suit — the future Venom symbiote."},
-        {"year": 1986, "title": "Mutant Massacre", "description": "The Marauders slaughter the Morlocks in a crossover through Uncanny X-Men, X-Factor, New Mutants, Thor, and Power Pack."},
-        {"year": 1986, "title": "Born Again (Daredevil)", "description": "Frank Miller and David Mazzucchelli's Daredevil #227–233 has Karen Page sell out Matt Murdock's identity to the Kingpin for heroin. Considered one of the finest superhero runs ever."},
-        {"year": 1988, "title": "Venom debuts as a villain", "description": "Amazing Spider-Man #300 introduces Eddie Brock bonded to the alien symbiote, drawn by Todd McFarlane."},
-        {"year": 1988, "title": "Inferno crossover", "description": "N'astirh's demons invade Manhattan; the X-line's biggest crossover to date."},
-        {"year": 1990, "title": "Spider-Man #1 by McFarlane", "description": "Adjectiveless Spider-Man #1 sells 2.5 million copies with variant covers, launching the collector's speculation boom."},
-        {"year": 1990, "title": "Cable debuts", "description": "New Mutants #87 introduces Rob Liefeld's Cable, the time-traveling son of Cyclops and Madelyne Pryor."},
-        {"year": 1991, "title": "X-Men #1 by Jim Lee", "description": "Jim Lee's X-Men #1 sells over 8 million copies with five variant covers — the best-selling comic of all time."},
-        {"year": 1991, "title": "Infinity Gauntlet & Deadpool", "description": "Jim Starlin and George Pérez's Infinity Gauntlet six-issue miniseries has Thanos snap away half of all life; New Mutants #98 debuts Deadpool. Both from 1991."},
-        {"year": 1992, "title": "Image Comics exodus", "description": "McFarlane, Lee, Liefeld, Silvestri, Portacio, Larsen, and Valentino leave Marvel to found Image Comics. The event ends Marvel's art-boom dominance."}
-      ]
+      "creators": ["Jim Shooter", "Todd McFarlane", "Jim Lee"]
     },
     {
       "id": "dark-age",
       "name": "Dark Age",
       "years": "1995–2000",
-      "description": "The speculator bubble burst. Marvel filed for Chapter 11 bankruptcy in 1996. Heroes Reborn outsourced flagship titles to former Marvel artists; the Onslaught event reset the board. The company clawed back to solvency by decade's end.",
-      "keyCharacters": ["Onslaught", "Age of Apocalypse cast", "Heroes Reborn variants"],
+      "description": "Marvel faced bankruptcy, leading to bold experiments like Heroes Reborn and the Onslaught event.",
+      "keyCharacters": ["Onslaught", "Age of Apocalypse cast"],
       "landmarkIssues": ["Onslaught: X-Men #1 (1996)", "Heroes Reborn: The Return (1997)"],
-      "creators": ["Mark Waid", "Kurt Busiek", "Alex Ross"],
-      "milestones": [
-        {"year": 1995, "title": "Age of Apocalypse", "description": "An alternate-reality X-line takeover for four months. Charles Xavier is dead, Magneto leads the X-Men, and Apocalypse rules North America."},
-        {"year": 1995, "title": "Clone Saga peaks", "description": "The multi-year Spider-Man storyline, which briefly makes clone Ben Reilly the real Peter Parker, becomes a byword for over-extended editorial mandates."},
-        {"year": 1996, "title": "Onslaught event", "description": "Psychic entity forces the Avengers and Fantastic Four to sacrifice themselves, clearing the deck for Heroes Reborn."},
-        {"year": 1996, "title": "Marvel files Chapter 11", "description": "December bankruptcy filing after the collector's-bubble collapse and disastrous Marvelution restructuring."},
-        {"year": 1996, "title": "Heroes Reborn launches", "description": "Marvel outsources Avengers, Iron Man, Fantastic Four, and Captain America to Jim Lee and Rob Liefeld's Image studios for a full year."},
-        {"year": 1996, "title": "Marvels by Ross and Busiek", "description": "Alex Ross and Kurt Busiek's painted four-issue miniseries retells Marvel history through a photojournalist's eyes — a critical high point in a bleak year."},
-        {"year": 1997, "title": "Heroes Return", "description": "The outsourced titles come back in-house, with Kurt Busiek and George Pérez's Avengers relaunch restoring the classic status quo."},
-        {"year": 1998, "title": "Marvel Knights imprint founded", "description": "Joe Quesada and Jimmy Palmiotti's Event Comics gets the contract to relaunch Daredevil, Punisher, Inhumans, and Black Panther, restoring Marvel's critical credibility."},
-        {"year": 1998, "title": "Toy Biz acquires Marvel", "description": "Isaac Perlmutter and Avi Arad's Toy Biz absorbs the bankrupt publisher, ending the Ron Perelman era and stabilizing the company."},
-        {"year": 1999, "title": "Ultimate line development begins", "description": "Bill Jemas takes over as president; work starts on the imprint that will become Ultimate Marvel, launching in 2000."}
-      ]
+      "creators": ["Mark Waid", "Kurt Busiek", "Alex Ross"]
     },
     {
       "id": "marvel-knights-ultimate",
       "name": "Marvel Knights & Ultimate Era",
       "years": "2000–2005",
-      "description": "Joe Quesada's Marvel Knights imprint restored critical credibility with darker takes on Daredevil, Punisher, and Inhumans. The Ultimate line rebooted continuity for new readers — Ultimate Spider-Man became a runaway hit and blueprinted the eventual MCU.",
-      "keyCharacters": ["Ultimate Spider-Man", "Ultimate Nick Fury", "Marvel Knights Daredevil", "Alias's Jessica Jones"],
+      "description": "Imprints redefined quality and accessibility, paving the road to the MCU.",
+      "keyCharacters": ["Ultimate Spider-Man", "Ultimate Nick Fury", "Marvel Knights Daredevil"],
       "landmarkIssues": ["Ultimate Spider-Man #1 (2000)", "Alias #1 (2001)", "Daredevil vol. 2 #1 (1998)"],
-      "creators": ["Joe Quesada", "Brian Michael Bendis", "Mark Millar", "Bill Jemas"],
-      "milestones": [
-        {"year": 2000, "title": "Ultimate Spider-Man launches", "description": "Brian Michael Bendis and Mark Bagley reboot Peter Parker for new readers on the Ultimate imprint. Runs 160+ issues, blueprint for the MCU's tone."},
-        {"year": 2000, "title": "Ultimate X-Men launches", "description": "Mark Millar reboots the X-Men in the Ultimate line, contemporary and militarized."},
-        {"year": 2000, "title": "Joe Quesada becomes Editor-in-Chief", "description": "Quesada takes over from Bob Harras; ushers in the modern era with the 'no more marriages' edict and creator-driven relaunches."},
-        {"year": 2001, "title": "Ultimates launches", "description": "Millar and Bryan Hitch's Ultimate Avengers is designed to look like a movie. Ultimate Nick Fury is explicitly modeled on Samuel L. Jackson — the visual template Marvel Studios would use verbatim."},
-        {"year": 2001, "title": "New X-Men by Grant Morrison", "description": "Morrison's three-year run introduces the black leather uniforms, Cassandra Nova, and the 'mutants are the dominant culture' pivot."},
-        {"year": 2001, "title": "Alias #1 debuts Jessica Jones", "description": "First title on the mature-readers MAX imprint. Bendis and Michael Gaydos introduce Jessica Jones."},
-        {"year": 2002, "title": "Bendis takes over Daredevil", "description": "Following Kevin Smith and David Mack, Bendis and Alex Maleev's 55-issue run outs Matt Murdock's identity and reshapes street-level Marvel."},
-        {"year": 2002, "title": "Sony's Spider-Man film opens", "description": "Sam Raimi's Spider-Man grosses over $800M globally, proving Marvel characters could anchor tentpoles and setting up the film-comics feedback loop of the era."},
-        {"year": 2004, "title": "Runaways debuts", "description": "Brian K. Vaughan and Adrian Alphona's teen team about kids discovering their parents are supervillains — a rare hit outside the main line."},
-        {"year": 2005, "title": "Astonishing X-Men by Whedon and Cassaday", "description": "Joss Whedon and John Cassaday's 25-issue run brings Kitty Pryde back to the team and revives Colossus, closing out the era on a critical high."}
-      ]
+      "creators": ["Joe Quesada", "Brian Michael Bendis", "Mark Millar"]
     },
     {
       "id": "event-era",
       "name": "Event Era",
       "years": "2005–2012",
-      "description": "Bendis, Millar, and Hickman built Marvel around annual line-wide events. Avengers Disassembled led into House of M, Civil War, Secret Invasion, Dark Reign, Siege, and Fear Itself. Each event permanently altered status quo.",
-      "keyCharacters": ["Iron Man (post-Civil War)", "Norman Osborn (Dark Reign)", "Sentry", "New Avengers roster"],
+      "description": "Annual, line-wide events defined the status quo.",
+      "keyCharacters": ["Iron Man", "Norman Osborn", "Sentry"],
       "landmarkIssues": ["House of M #1 (2005)", "Civil War #1 (2006)", "Secret Invasion #1 (2008)"],
-      "creators": ["Brian Michael Bendis", "Mark Millar", "Ed Brubaker", "Matt Fraction"],
-      "milestones": [
-        {"year": 2005, "title": "House of M", "description": "The Scarlet Witch reshapes reality then reverses it with 'No more mutants,' depowering 90%+ of Earth's mutant population."},
-        {"year": 2005, "title": "New Avengers launches", "description": "Bendis reforms the Avengers with Spider-Man, Wolverine, and Luke Cage — the first time these characters are members of the main team."},
-        {"year": 2005, "title": "Return of Bucky as Winter Soldier", "description": "Ed Brubaker's Captain America run reveals Bucky Barnes survived WWII as a Soviet assassin. Basis for the MCU film."},
-        {"year": 2006, "title": "Civil War", "description": "Mark Millar's seven-issue event splits heroes over the Superhuman Registration Act. Cap and Iron Man on opposing sides."},
-        {"year": 2007, "title": "Death of Captain America", "description": "Captain America #25 has Steve Rogers assassinated on the courthouse steps after Civil War. Bucky takes the shield."},
-        {"year": 2007, "title": "One More Day", "description": "Peter Parker and Mary Jane's marriage is erased by Mephisto to save Aunt May's life — Quesada's controversial reset of the Spider-Man status quo."},
-        {"year": 2008, "title": "Secret Invasion", "description": "Bendis reveals Skrulls have been replacing heroes for years. Ends with Norman Osborn shooting the Skrull Queen on live TV."},
-        {"year": 2009, "title": "Dark Reign begins", "description": "Norman Osborn takes over S.H.I.E.L.D. (rebranded H.A.M.M.E.R.) and forms his own Dark Avengers. Year-long villains-in-charge status quo."},
-        {"year": 2010, "title": "Siege ends Dark Reign", "description": "Osborn invades Asgard; the Sentry destroys it; Steve Rogers resumes command of the Avengers."},
-        {"year": 2012, "title": "Avengers vs. X-Men", "description": "12-issue event: the Phoenix Force possesses Cyclops and four X-Men. Ends with Xavier's death and the return of mutants after House of M."}
-      ]
+      "creators": ["Brian Michael Bendis", "Mark Millar"]
     },
     {
       "id": "mcu-synergy",
       "name": "MCU Synergy Era",
       "years": "2012–2019",
-      "description": "The Marvel Cinematic Universe reshaped the comics. Marvel NOW! and All-New All-Different relaunches aligned characters and looks with their film versions. Hickman's Avengers/New Avengers built to Secret Wars (2015), rebooting continuity as the All-New All-Different Marvel.",
-      "keyCharacters": ["Miles Morales", "Kamala Khan (Ms. Marvel)", "Sam Wilson Captain America", "Jane Foster Thor"],
+      "description": "Comics aligned with films through massive relaunches and new hero iterations.",
+      "keyCharacters": ["Miles Morales", "Kamala Khan", "Sam Wilson", "Jane Foster"],
       "landmarkIssues": ["Marvel NOW! Point One (2012)", "Secret Wars #1 (2015)", "Ms. Marvel #1 (2014)"],
-      "creators": ["Jonathan Hickman", "G. Willow Wilson", "Ta-Nehisi Coates", "Donny Cates"],
-      "milestones": [
-        {"year": 2011, "title": "Miles Morales debuts", "description": "Ultimate Fallout #4 introduces Miles Morales after the Ultimate universe's Peter Parker dies. Miles becomes one of Marvel's few post-1980 creations to reach top-tier status."},
-        {"year": 2012, "title": "Marvel NOW! relaunch", "description": "Post-AvX line-wide soft reboot. Uncanny Avengers debuts; Hickman takes over Avengers and New Avengers to build the road to Secret Wars."},
-        {"year": 2013, "title": "Superior Spider-Man launches", "description": "Doctor Octopus swaps minds with Peter Parker and runs the Spidey title for 33 issues as a 'better' hero."},
-        {"year": 2013, "title": "Hawkeye by Fraction and Aja", "description": "Ground-level Hawkeye run introducing Kate Bishop as co-lead. Direct visual inspiration for the MCU Hawkeye series."},
-        {"year": 2014, "title": "Ms. Marvel #1 (Kamala Khan)", "description": "G. Willow Wilson introduces Kamala Khan, Marvel's first Muslim character to headline her own title. Runaway critical hit."},
-        {"year": 2014, "title": "Sam Wilson becomes Captain America", "description": "Falcon takes the shield after Steve Rogers loses his super-soldier serum in Rick Remender's run."},
-        {"year": 2014, "title": "Jane Foster becomes Thor", "description": "Jason Aaron's run has an unworthy Thor Odinson lose Mjolnir; Jane Foster picks it up despite her cancer treatment killing her every time she transforms."},
-        {"year": 2015, "title": "Secret Wars reboots continuity", "description": "Hickman's eight-year Avengers plan culminates: the 616 and Ultimate universes collide, Doctor Doom rebuilds a Battleworld, then Reed Richards reboots reality. Launchpad for All-New, All-Different Marvel."},
-        {"year": 2016, "title": "Civil War II", "description": "Bendis pits Iron Man against Captain Marvel over predictive justice. Bruce Banner and War Machine die."},
-        {"year": 2017, "title": "Secret Empire", "description": "Nick Spencer's controversial event where a cosmic-cube-altered Steve Rogers, now a Hydra sleeper agent, takes over America."}
-      ]
+      "creators": ["Jonathan Hickman", "G. Willow Wilson"]
     },
     {
       "id": "krakoan-beyond",
       "name": "Krakoan Age & Beyond",
       "years": "2019–present",
-      "description": "Jonathan Hickman's House of X / Powers of X relaunched the X-Men on the mutant nation-state of Krakoa, reframing the franchise around resurrection, diplomacy, and existential threat. The line closed with Fall of X and transitioned into From the Ashes in 2024.",
-      "keyCharacters": ["Krakoan Council", "Moira MacTaguggart (X)", "Orchis", "Sabretooth (Exiled)"],
+      "description": "A holistic relaunch of the X-Men franchise.",
+      "keyCharacters": ["Krakoan Council", "Moira MacTaguggart", "Orchis"],
       "landmarkIssues": ["House of X #1 (2019)", "Powers of X #1 (2019)", "Fall of the House of X #1 (2024)"],
-      "creators": ["Jonathan Hickman", "Kieron Gillen", "Al Ewing", "Gerry Duggan"],
-      "milestones": [
-        {"year": 2019, "title": "House of X / Powers of X", "description": "Jonathan Hickman and Pepe Larraz's twin miniseries reboot the X-line. Mutants found the sovereign island nation of Krakoa and unlock resurrection."},
-        {"year": 2019, "title": "Dawn of X relaunch", "description": "X-Men, Marauders, Excalibur, X-Force, New Mutants, and Fallen Angels relaunch under the Krakoan status quo."},
-        {"year": 2020, "title": "King in Black", "description": "Donny Cates and Ryan Stegman's event: Knull, god of the symbiotes, invades Earth."},
-        {"year": 2021, "title": "Hellfire Gala tradition begins", "description": "Annual X-line event: mutant fashion gala where a new X-Men roster is elected. Reshapes the year's stories."},
-        {"year": 2021, "title": "Immortal Hulk concludes", "description": "Al Ewing and Joe Bennett's 50-issue run ends. Widely called the best Hulk run since Peter David, and one of the defining books of the era."},
-        {"year": 2022, "title": "A.X.E.: Judgment Day", "description": "Kieron Gillen's event: the Progenitor, a Celestial made from Uranos, judges every person on Earth by their potential to be good."},
-        {"year": 2023, "title": "Sins of Sinister", "description": "Alternate-timeline Krakoan story where Mister Sinister has manipulated the resurrection protocols. Explores 1,000 years of a Sinister-ruled galaxy."},
-        {"year": 2023, "title": "Fall of X begins", "description": "Orchis destroys the Hellfire Gala, deactivates the resurrection protocols, and drives mutants underground. Ends the Krakoan era."},
-        {"year": 2024, "title": "Fall of the House of X / Rise of the Powers of X", "description": "Kieron Gillen and Al Ewing's twin miniseries close out the Krakoan Age. Krakoa is destroyed; the X-Men splinter."},
-        {"year": 2024, "title": "From the Ashes relaunch", "description": "New X-line launches with the X-Men fractured across multiple teams. Cyclops leads one team, Rogue another, Xavier is imprisoned."}
-      ]
+      "creators": ["Jonathan Hickman", "Kieron Gillen"]
     }
   ]
 }
